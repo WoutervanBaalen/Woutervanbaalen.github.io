@@ -23,12 +23,14 @@
 	}
 	.dark-mode .button-list{
 		background-color: rgb(70, 70, 70);
-		
+		color: rgb(255, 255, 255);
 	}
 	.dark-mode .card{
 		background-color: rgb(70, 70, 70);
+		color: rgb(255, 255, 255);
 	}
 	
 	.dark-mode .table{
 		background-color: rgb(70, 70, 70);
+		color: rgb(255, 255, 255);
 	}
