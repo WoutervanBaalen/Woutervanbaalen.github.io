@@ -1,6 +1,6 @@
 const button = document.querySelector(".theme-button");
 let lightModeOn = JSON.parse(localStorage.getItem("lightModeOn"));
-if (~lightModeOn){
+if (!lightModeOn){
     button.textContent = "light mode"
 }
 const changeHandeler = function (event) {

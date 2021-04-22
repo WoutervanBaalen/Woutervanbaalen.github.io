@@ -1,34 +1,34 @@
-
-.dark-mode{
-
-
-
+	.dark-mode .container-fluid.content-color{
+		background-color: rgb(70, 70, 70);
 		color: rgb(255, 255, 255);
-		
-	}
-	body{
-		background-color: rgb(68, 192, 171);
-	}
-	
-	.theme-button{
+	}	
+	.dark-mode .theme-button{
 		background-color: rgb(70, 70, 70);
-		color:rgb(0, 0, 0)
+		color:rgb(255, 254, 254)
 	}
 
-		
-
-	nav ul li a:hover{
-		background-color: rgb(68, 192, 171);
+	.dark-mode .theme-button{
+		background-color: rgb(255, 255, 255);
+		color:rgb(70, 70, 70);
+	}	
+	.dark-mode .nav ul li a{
+		display:block;
+		padding: 0.5em 1em;
+		color:rgb(255, 255, 255);
 	}
-	
-	.button-list{
+	nav ul{
+		display:flex;
+		list-style:none;
+		color: rgb(255, 255, 255);
+	}
+	.dark-mode .button-list{
 		background-color: rgb(70, 70, 70);
 		
 	}
-	.card{
+	.dark-mode .card{
 		background-color: rgb(70, 70, 70);
 	}
 	
-	.table{
+	.dark-mode .table{
 		background-color: rgb(70, 70, 70);
 	}
