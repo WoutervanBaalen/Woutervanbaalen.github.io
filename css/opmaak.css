@@ -1,0 +1,39 @@
+
+
+.container-fluid.content-color{
+	background-color: rgb(255, 255, 255);
+}
+body{
+	background-color: rgb(68, 192, 171);
+}
+
+.theme-button{
+	background-color: rgb(70, 70, 70);
+	color:rgb(255, 255, 255)
+}
+nav ul{
+	display:flex;
+	list-style:none
+}
+
+	
+nav ul li a{
+	display:block;
+	padding: 0.5em 1em;
+	color:rgb(0, 0, 0);
+}
+nav ul li a:hover{
+	background-color: rgb(68, 192, 171);
+}
+
+.button-list{
+	background-color: rgb(255, 255, 255);
+	
+}
+.card{
+	background-color: rgb(255, 255, 255);
+}
+
+.table{
+	background-color: rgb(255, 255, 255);
+}
