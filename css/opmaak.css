@@ -3,6 +3,7 @@
 }
 body{
 	background-color: rgb(68, 192, 171);
+
 }
 
 .theme-button{
@@ -32,7 +33,6 @@ nav ul li a:hover{
 
 .button-list{
 	background-color: rgb(255, 255, 255);
-	
 }
 .card{
 	background-color: rgb(255, 255, 255);
@@ -40,4 +40,23 @@ nav ul li a:hover{
 
 .table{
 	background-color: rgb(255, 255, 255);
+}
+
+.img{
+	height: auto;
+	width: 800px;
+
+}
+
+.button{
+	background-color: rgb(68, 192, 171);
+	align-items: center;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: black
 }
