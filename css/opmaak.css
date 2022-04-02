@@ -60,3 +60,15 @@ a{
 a:hover{
 	color: rgba(0, 0, 0, 0.925)
 }
+
+.adress{
+	float: left;
+	width: 100%;
+}
+.home-img {
+	width: 1000px;
+}
+
+.tic-img {
+	width: 700px;
+}
