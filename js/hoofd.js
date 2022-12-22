@@ -3,7 +3,7 @@ let lightModeOn = JSON.parse(localStorage.getItem("lightModeOn"));
 if (!lightModeOn) {
     button.textContent = "light mode"
 }
-const changeHandeler = function (event) {
+const changeHandler = function (event) {
     if (lightModeOn) {
         lightModeOn = false;
         const body = document.querySelector("body")
@@ -17,7 +17,7 @@ const changeHandeler = function (event) {
     }
     localStorage.setItem("lightModeOn", lightModeOn);
 }
-button.addEventListener("click", changeHandeler);
+button.addEventListener("click", changeHandler);
 
 if (lightModeOn === false) {
     const body = document.querySelector("body")

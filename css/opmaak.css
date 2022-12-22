@@ -1,18 +1,18 @@
 .container-fluid.content-color{
 	background-color: rgb(255, 255, 255);
 }
-body{
-	background-color: rgb(68, 192, 171);
+.body{
+	background-color: rgb(255, 255, 255);
 
 }
 
 .theme-button{
-	background-color: rgb(255, 255, 255);
+	background-color: rgb(68, 192, 171);
 	color:rgb(0, 0, 0)
 }
 
 .theme-button:hover{
-	background-color: rgb(70, 70, 75);
+	background-color: rgb(6, 75, 63);
 	color: rgb(255, 255, 255);
 }
 
@@ -27,12 +27,12 @@ nav ul li a{
 	color:rgb(0, 0, 0);
 }
 nav ul li a:hover{
-	background-color: rgb(68, 192, 171);
+	background-color: rgb(255, 255, 255);
 	color:rgb(0, 0, 0);
 }
 
 .button-list{
-	background-color: rgb(255, 255, 255);
+	background-color: rgb(68, 192, 171);
 }
 .card{
 	background-color: rgb(255, 255, 255);
@@ -49,7 +49,7 @@ nav ul li a:hover{
 }
 
 .button{
-	background-color: rgb(68, 192, 171);
+	background-color: rgb(255, 255, 255);
 	align-items: center;
 }
 

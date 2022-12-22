@@ -1,38 +1,38 @@
-.dark-mode .container-fluid.content-color{
-	background-color: rgb(70, 70, 75);
-	color: rgb(255, 255, 255);
-}	
-
-.dark-mode .theme-button{
-	background-color: rgb(70, 70, 75);
-	color:rgb(255, 254, 254)
+.dark-mode .container-fluid.content-color {
+    background-color: rgb(70, 70, 75);
+    color: rgb(255, 255, 255);
 }
 
-.dark-mode .theme-button{
-	background-color: rgb(70, 70, 75);
-	color:rgb(255, 255, 255);
-}	
-
-.dark-mode .theme-button:hover{
-	background-color: rgb(255, 255, 255);
-	color: rgb(0,0,0);
+.dark-mode body {
+    background-color: rgb(70, 70, 75);
 }
 
-.dark-mode nav ul li a{
-		color:rgb(255, 255, 255);
+.dark-mode .theme-button {
+    color: rgb(255, 254, 254)
 }
 
-.dark-mode .button-list{
-	background-color: rgb(70, 70, 75);
-	color: rgb(255, 255, 255);
+/*.dark-mode .theme-button:hover {*/
+/*    background-color: rgb(68, 192, 171);*/
+/*    color:rgb(0, 0, 0)*/
+/*}*/
+
+.dark-mode nav ul li a:hover {
+    background-color: rgb(70, 70, 75);
+    color: rgb(255, 255, 255);
+
 }
 
-.dark-mode .card{
-	background-color: rgb(70, 70, 75);
-	color: rgb(255, 255, 255);
+.dark-mode .button-list {
+    background-color: rgb(6, 75, 63);
+    color: rgb(255, 255, 255);
 }
 
-.dark-mode .table{
-	background-color: rgb(70, 70, 75);
-	color: rgb(255, 255, 255);
+.dark-mode .card {
+    background-color: rgb(70, 70, 75);
+    color: rgb(255, 255, 255);
+}
+
+.dark-mode .table {
+    background-color: rgb(70, 70, 75);
+    color: rgb(255, 255, 255);
 }
